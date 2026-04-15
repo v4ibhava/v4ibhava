@@ -62,7 +62,7 @@
 - 💼 GitHub: https://github.com/v4ibhava
 
 <p align="center">
-  <a href="https://github.com/v4ibhava" target="_blank">
-    <img src="https://img.shields.io/badge/🚀 Press%20to%20Explore%20My%20GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://v4ibhava.github.io/Bumchiki/" target="_blank">
+    <img src="https://img.shields.io/badge/⚠️ Do%20NOT%20Click...%20or%20maybe%20do%20👀-ff0080?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
