@@ -60,6 +60,3 @@
 
 ### 🌐 Connect
 - 💼 GitHub: https://github.com/v4ibhava
-  <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJlbzYzcjI4dXlnM2Qza3JlcHBjaHd4cnpnYWliM2xjMmV6ZzhrMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Bzzb92NKwUOj0FjQOd/giphy.gif" width="400"/>
-</p>
