@@ -19,8 +19,9 @@ jobs:
           github_user_name: v4ibhava
           outputs: |
             dist/github-contribution-grid-snake.svg?palette=github-dark&hide_progress=true
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&hide_progress=true
 
-      - name: Deploy to output
+      - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
