@@ -11,8 +11,6 @@
 
 ---
 
-### 🐍 Snake Eating My Contributions
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/v4ibhava/v4ibhava/output/github-contribution-grid-snake.svg" />
 </p>
