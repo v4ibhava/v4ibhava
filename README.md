@@ -38,14 +38,14 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=v4ibhava&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=v4ibhava&show_icons=true&theme=tokyonight&cache_seconds=0" />
 </p>
 
 ---
 
 ### 🔥 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=v4ibhava&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=v4ibhava&theme=tokyonight&cache_seconds=0" />
 </p>
 
 ---
@@ -60,3 +60,6 @@
 
 ### 🌐 Connect
 - 💼 GitHub: https://github.com/v4ibhava
+  <p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJlbzYzcjI4dXlnM2Qza3JlcHBjaHd4cnpnYWliM2xjMmV6ZzhrMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Bzzb92NKwUOj0FjQOd/giphy.gif" width="400"/>
+</p>
