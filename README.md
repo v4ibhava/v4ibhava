@@ -60,6 +60,7 @@
 
 ### 🌐 Connect
 - 💼 GitHub: https://github.com/v4ibhava
+- 🌐 site: https://portfolio-7md.pages.dev/
 
 <p align="center">
   <a href="https://v4ibhava.github.io/Bumchiki/" target="_blank">
