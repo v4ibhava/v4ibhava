@@ -60,7 +60,7 @@
 
 ### 🌐 Connect
 - 💼 GitHub: https://github.com/v4ibhava
-- 🌐 site:
+- 🌐 site: https://v4ibhava.vercel.app/
 
 <p align="center">
   <a href="https://v4ibhava.github.io/Bumchiki/" target="_blank">
