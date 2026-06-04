@@ -36,20 +36,6 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=v4ibhava&show_icons=true&theme=tokyonight&cache_seconds=0" />
-</p>
-
----
-
-### 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=v4ibhava&theme=tokyonight&cache_seconds=0" />
-</p>
-
----
-
 ### 🚀 Focus Areas
 - Full Stack Web Apps (MERN)
 - Backend Architecture
