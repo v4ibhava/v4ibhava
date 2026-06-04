@@ -46,7 +46,7 @@
 
 ### 🌐 Connect
 - 💼 GitHub: https://github.com/v4ibhava
-- 🌐 site: https://v4ibhava.vercel.app/
+- 🌐 site: https://v4ibhav.vercel.app/
 
 <p align="center">
   <a href="https://v4ibhav.github.io/Bumchiki/" target="_blank">
